@@ -1,3 +1,3 @@
 # Glassmorphics-Forms
 # Glassmorphics-Landing-pages
-# Khan Devlopers
+# Khan Developers
